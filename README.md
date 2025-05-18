@@ -2,6 +2,7 @@
 
 This repository builds upon the `UtilForecast_LaggedOLS` model by selecting the best-performing lags for each macroeconomic predictor (CPI, 10-Year Treasury Yield, and Natural Gas Price) based on adjusted R² scores from an independent lag sweep analysis.
 
+
 ## Overview
 
 The goal of this project is to build a refined regression model that uses the optimal lag for each independent variable in order to improve forecasting accuracy for utility stock returns (currently using Duke Energy - `DUK` as the representative stock).
