@@ -1,4 +1,5 @@
 # UtilitiesBestLagPredictor
+[![DOI](https://zenodo.org/badge/985894123.svg)](https://doi.org/10.5281/zenodo.15460074)
 
 This repository builds upon the `UtilForecast_LaggedOLS` model by selecting the best-performing lags for each macroeconomic predictor (CPI, 10-Year Treasury Yield, and Natural Gas Price) based on adjusted R² scores from an independent lag sweep analysis.
 
